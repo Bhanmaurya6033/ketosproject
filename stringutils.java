@@ -1,4 +1,6 @@
 udated string functions
-hi guys
+
+
+added new line for pythonhi guys
 
 this file contains string functions
